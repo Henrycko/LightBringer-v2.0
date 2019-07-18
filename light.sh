@@ -61,7 +61,6 @@ close(){
 akhir(){
         echo "==================================="
         echo "         TOOLS INI GRATIS!"
-        echo " Spesial 1.000.000 subscriber HackBae"
         echo " Dilarang menjual belikan tools ini"
         echo " Dilarang menyalahgunakan tools ini :)"
         echo "==================================="
